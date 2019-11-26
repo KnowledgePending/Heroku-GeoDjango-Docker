@@ -1,7 +1,9 @@
 <img src="./images/django.png" width="100%">
 
 # Heroku-GeoDjango-Docker
-🐳🌎GeoDjango Docker for Heroku Deployments
+🐳🌎GeoDjango Docker for Heroku Deployments  
+  <br>
+For a GeoDjango Dev Environment see [GeoDjango Docker](https://github.com/KnowledgePending/GeoDjango-Docker)
 
 ## Deploying a GeoDjango Application to Heroku
 * Create a Heroku application through the Website or CLI like down below 
